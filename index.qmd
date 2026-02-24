@@ -103,7 +103,7 @@ format: html
 # title-fr: "Bonjour SSPCloud"
 
 description: |
-    Editing this text to see if it is updating. 
+    Editing this text to see if it is updating 15:04. 
 
 # If resources is multilingual, adopt that structure
 # (need to have both description and description-* fields)
