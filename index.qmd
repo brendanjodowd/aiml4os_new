@@ -1,5 +1,5 @@
 ---
-title: "Template for WP6 training material" # See below for multilingual resource
+title: "AI and Machine Learning for Official Statistics - AIML4OS" # See below for multilingual resource
 include-before-body:
   - text: <img src="resources/cover/main2.png" style="max-width:900px;width:100%">
 author:
@@ -12,6 +12,9 @@ author:
 date: "2025-05-16"
 doi: "10.1000/182"  # Optional
 license: "CC-BY 4.0"  # Optional
+
+# Brendan adding this, per instructions
+format: html
 
 # If resources is multilingual, adopt that structure
 # (need to have both title and title-* fields)
