@@ -103,7 +103,7 @@ format: html
 # title-fr: "Bonjour SSPCloud"
 
 description: |
-    This template is a fast starting pack for AIML4OS projects that use `R`. For `Python` projects, see [this `Github` repository](https://github.com/InseeFrLab/AIML4OS-template-quarto-python).
+    Editing this text to see if it is updating. 
 
 # If resources is multilingual, adopt that structure
 # (need to have both description and description-* fields)
