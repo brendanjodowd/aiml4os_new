@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2025-05-16">
-<meta name="description" content="Editing this text to see if it is updating 15:04.">
+<meta name="description" content="AI and Machine Learning for Official Statistics (AIML4OS) is an ESSnet project aimed at delivering a comprehensive suite of resources, guidelines, methodologies and use cases for the implementation of AI/ML in Official Statistics. There are 15 funded countries in the consortium. The project is running from April 2024 to March 2028.">
 
 <title>AI and Machine Learning for Official Statistics - AIML4OS – Introduction to ggplot2</title>
 <style>
@@ -49,8 +49,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -140,85 +138,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-is-this-template" id="toc-what-is-this-template" class="nav-link active" data-scroll-target="#what-is-this-template">What is this template?</a></li>
-  <li><a href="#how-to-use-it" id="toc-how-to-use-it" class="nav-link" data-scroll-target="#how-to-use-it">How to use it?</a></li>
+  <li><a href="#workpackages" id="toc-workpackages" class="nav-link active" data-scroll-target="#workpackages">Workpackages</a>
+  <ul class="collapse">
+  <li><a href="#supporting-workpackages" id="toc-supporting-workpackages" class="nav-link" data-scroll-target="#supporting-workpackages">Supporting Workpackages</a></li>
+  <li><a href="#use-case-workpackages" id="toc-use-case-workpackages" class="nav-link" data-scroll-target="#use-case-workpackages">Use Case Workpackages</a></li>
+  </ul></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/brendanjodowd/aiml4os_new/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brendanjodowd/aiml4os_new/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/brendanjodowd/aiml4os_new/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
-<img src="resources/cover/main2.png" style="max-width:900px;width:100%"><br>
-
-<style>
-  /* Paragraphs */
-  p { text-align: justify; }
-
-  /* Tables */
-  table { width: 100%; table-layout: fixed; }
-  th, td {
-    padding: 10px;
-    text-align: left;
-    word-wrap: break-word;
-    font-size: 12px; /* adjust if needed */
-  }
-
-  /* Cluster column widths */
-  .cluster-1, .cluster-2, .cluster-3, .cluster-4, .cluster-5 { width: 20%; }
-
-  /* NSI grid + list (smaller font) */
-  .nsi-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr; /* left + middle = participants, right = observers */
-    gap: 1rem;
-    align-items: start;
-  }
-  .nsi-grid h3 {
-    margin: 0 0 .25rem 0;
-    font-size: 0.95rem;
-  }
-  .nsi-list { margin: 0; padding-left: 1.1rem; list-style: disc; }
-  .nsi-list.small { font-size: 13px; line-height: 1.4; }
-  @media (max-width: 800px) {
-    .nsi-grid { grid-template-columns: 1fr; } /* stack on small screens */
-  }
-</style>
-
-
-<div class="nsi-grid">
-
-
-  <div class="nsi-col participants">
-    <h3 class="anchored">Participants</h3>
-    <ul class="nsi-list small">
-      <li><a href="https://www.destatis.de/DE/Home/_inhalt.html">Destatis (Germany)</a></li>
-      <li><a href="https://stat.gov.pl/en/">Statistics Poland</a></li>
-      <li><a href="https://www.ssb.no/en/">Statistics Norway</a></li>
-      <li><a href="https://www.cbs.nl/en-gb">Statistics Netherlands</a></li>
-    </ul>
-  </div>
-
-
-  <div class="nsi-col participants">
-    <ul class="nsi-list small">
-      <li><a href="https://www.statistik.at/">Statistics Austria</a></li>
-      <li><a href="https://www.insee.fr/en/accueil">Insee (France)</a></li>
-      <li><a href="https://www.ine.es/en/">National Institute of Statistics (Spain)</a></li>
-      <li><a href="https://www.dst.dk/en">Statistics Denmark</a></li>
-    </ul>
-  </div>
-
-
-  <div class="nsi-col observers">
-    <h3 class="anchored">Observers</h3>
-    <ul class="nsi-list small">
-      <li><a href="https://www.stat.si/StatWeb/en">SURS (Slovenia)</a></li>
-      <li><a href="https://www.cso.ie/en/">CSO (Ireland)</a></li>
-      <li><a href="https://www.cystat.gov.cy/en/">Statistical Service (Cyprus)</a></li>
-      <li><a href="https://statistiques.public.lu/en.html">STATEC (Luxembourg)</a></li>
-    </ul>
-  </div>
-
-</div>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -227,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    <p>Editing this text to see if it is updating 15:04.</p>
+    <p><strong>AI and Machine Learning for Official Statistics (AIML4OS)</strong> is an ESSnet project aimed at delivering a comprehensive suite of resources, guidelines, methodologies and use cases for the implementation of AI/ML in Official Statistics. There are 15 funded countries in the consortium. The project is running from April 2024 to March 2028.</p>
   </div>
 </div>
 
@@ -258,13 +188,47 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="what-is-this-template" class="level1">
-<h1>What is this template?</h1>
-<p>This template is a Quarto Website customized for the AIML4OS project, designed to be used with <i class="fa-brands fa-r-project" aria-label="r-project"></i>.</p>
+<section id="workpackages" class="level1">
+<h1>Workpackages</h1>
+<p>The AIML4OS project is divided into 13 workpackages, 6 of which are ‘supporting’ workpackages that provide cross-cutting insight and resources, and 7 of which are ‘use case’ workpackages, which explore a specific domain within AI/ML and its relevance to official statistics.</p>
+<section id="supporting-workpackages" class="level2">
+<h2 class="anchored" data-anchor-id="supporting-workpackages">Supporting Workpackages</h2>
+<ol type="1">
+<li>Coordination</li>
+<li>Communication</li>
+<li>AI/ML Lab</li>
+<li>Ecosystem Monitoring</li>
+<li>Standards, Methodology, Implementation</li>
+<li>Knowledge Repository</li>
+</ol>
 </section>
-<section id="how-to-use-it" class="level1">
-<h1>How to use it?</h1>
-<p>See <a href="https://aiml4os.github.io/training-material-starting-pack/">this tutorial</a>.</p>
+<section id="use-case-workpackages" class="level2">
+<h2 class="anchored" data-anchor-id="use-case-workpackages">Use Case Workpackages</h2>
+<ol start="7" type="1">
+<li>Earth Observation Data</li>
+<li>Editing</li>
+<li>Imputation</li>
+<li>Text to Code</li>
+<li>Supply Chain Networks</li>
+<li>LLMs</li>
+<li>Synthetic Data</li>
+</ol>
+</section>
+</section>
+<section id="links" class="level1">
+<h1>Links</h1>
+<ul>
+<li><a href="https://www.linkedin.com/company/essnet-aiml4os/" target="_blank">LinkedIn</a></li>
+<li><a href="https://cros.ec.europa.eu/dashboard/aiml4os" target="_blank">Eurostat CROS</a></li>
+<li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43252476/101146355/SMP?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=es_SortDate&amp;keywords=aiml4os" target="_blank">AIML4OS on EU Funding and Tenders Portal</a></li>
+<li><a href="https://aiml4os.shinyapps.io/project_tracker" target="_blank">Deliverable tracker</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center" style="max-width: 100%; height: auto;">
+<figure class="figure">
+<p><img src="images/eurostat_funding.png" class="img-fluid figure-img"></p>
+<figcaption>Grant Agreement number: 101146355 — (AIML4OS — SMP-ESS-2023-AI-ML4OS-IBA)</figcaption>
+</figure>
+</div>
 
 
 </section>
