@@ -29,6 +29,10 @@ website:
         text: Introduction
       - href: chapters/coordination.qmd
         text: Project Management & Coordination
+      - href: chapters/communication.qmd
+        text: Communication
+      - href: chapters/aiml_lab.qmd
+        text: AI/ML Lab
 
 format:
   html:
