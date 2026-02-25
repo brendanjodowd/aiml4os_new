@@ -4,6 +4,8 @@ project:
   render: # Add HERE new chapters (but not the interactive qmd files)
     - index.qmd
     - chapters/coordination.qmd
+    - chapters/communcation.qmd
+    - chapters/aiml_lab.qmd
 
 website:
   page-navigation: true
@@ -26,7 +28,7 @@ website:
     search: true
     contents: # Add HERE new chapters (but not the interactive qmd files)
       - href: index.qmd
-        text: Introduction
+        text: Homepage
       - href: chapters/coordination.qmd
         text: Project Management & Coordination
       - href: chapters/communication.qmd
