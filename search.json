@@ -1,5 +1,55 @@
 [
   {
+    "objectID": "chapters/aiml_lab.html",
+    "href": "chapters/aiml_lab.html",
+    "title": "AI/ML Lab",
+    "section": "",
+    "text": "Some text\n\n\nSome resources",
+    "crumbs": [
+      "AI/ML Lab"
+    ]
+  },
+  {
+    "objectID": "chapters/aiml_lab.html#resources",
+    "href": "chapters/aiml_lab.html#resources",
+    "title": "AI/ML Lab",
+    "section": "",
+    "text": "Some resources",
+    "crumbs": [
+      "AI/ML Lab"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
+    "section": "",
+    "text": "AI and Machine Learning for Official Statistics (AIML4OS) is an ESSnet project aimed at delivering a comprehensive suite of resources, guidelines, methodologies and use cases for the implementation of AI/ML in Official Statistics. There are 15 funded countries in the consortium. The project is running from April 2024 to March 2028.",
+    "crumbs": [
+      "Homepage"
+    ]
+  },
+  {
+    "objectID": "index.html#supporting-workpackages",
+    "href": "index.html#supporting-workpackages",
+    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
+    "section": "Supporting Workpackages",
+    "text": "Supporting Workpackages\n\nProject Management & Coordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository",
+    "crumbs": [
+      "Homepage"
+    ]
+  },
+  {
+    "objectID": "index.html#use-case-workpackages",
+    "href": "index.html#use-case-workpackages",
+    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
+    "section": "Use Case Workpackages",
+    "text": "Use Case Workpackages\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data",
+    "crumbs": [
+      "Homepage"
+    ]
+  },
+  {
     "objectID": "chapters/coordination.html",
     "href": "chapters/coordination.html",
     "title": "Project Management & Coordination",
@@ -17,26 +67,6 @@
     "text": "AIML4OS on CSO Website",
     "crumbs": [
       "Project Management & Coordination"
-    ]
-  },
-  {
-    "objectID": "index.html#supporting-workpackages",
-    "href": "index.html#supporting-workpackages",
-    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
-    "section": "Supporting Workpackages",
-    "text": "Supporting Workpackages\n\nProject Management & Coordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#use-case-workpackages",
-    "href": "index.html#use-case-workpackages",
-    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
-    "section": "Use Case Workpackages",
-    "text": "Use Case Workpackages\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data",
-    "crumbs": [
-      "Introduction"
     ]
   }
 ]
