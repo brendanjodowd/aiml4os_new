@@ -30,21 +30,11 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI and Machine Learning for Official Statistics - AIML4OS",
-    "section": "",
-    "text": "The AIML4OS project is divided into 13 workpackages, 6 of which are ‘supporting’ workpackages that provide cross-cutting insight and resources, and 7 of which are ‘use case’ workpackages, which explore a specific domain within AI/ML and its relevance to official statistics.\n\n\n\nCoordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository\n\n\n\n\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
     "objectID": "index.html#supporting-workpackages",
     "href": "index.html#supporting-workpackages",
     "title": "AI and Machine Learning for Official Statistics - AIML4OS",
-    "section": "",
-    "text": "Coordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository",
+    "section": "Supporting Workpackages",
+    "text": "Supporting Workpackages\n\nCoordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository",
     "crumbs": [
       "Introduction"
     ]
@@ -53,8 +43,8 @@
     "objectID": "index.html#use-case-workpackages",
     "href": "index.html#use-case-workpackages",
     "title": "AI and Machine Learning for Official Statistics - AIML4OS",
-    "section": "",
-    "text": "Earth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data",
+    "section": "Use Case Workpackages",
+    "text": "Use Case Workpackages\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data",
     "crumbs": [
       "Introduction"
     ]
