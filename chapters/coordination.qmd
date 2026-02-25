@@ -1,0 +1,13 @@
+
+
+# Project Management & Coordination
+
+## What is `ggplot2`?
+
+The Central Statistics Office (CSO), Ireland, are responsible for management and coordination of the AIML4OS project.
+
+## Resources
+
+- [AIML4OS on CSO Website](https://www.cso.ie/en/methods/researchatthecso/aiml4os/){target="_blank"}
+
+

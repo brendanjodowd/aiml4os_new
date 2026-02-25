@@ -3,7 +3,7 @@ project:
   execute-dir: project
   render: # Add HERE new chapters (but not the interactive qmd files)
     - index.qmd
-    - chapters/chapter1.qmd
+    - chapters/coordination.qmd
 
 website:
   page-navigation: true
@@ -27,8 +27,8 @@ website:
     contents: # Add HERE new chapters (but not the interactive qmd files)
       - href: index.qmd
         text: Introduction
-      - href: chapters/chapter1.qmd
-        text: Plot with ggplot2
+      - href: chapters/coordination.qmd
+        text: Project Management & Coordination
 
 format:
   html:
