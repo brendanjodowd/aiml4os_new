@@ -4,7 +4,7 @@ project:
   render: # Add HERE new chapters (but not the interactive qmd files)
     - index.qmd
     - chapters/coordination.qmd
-    - chapters/communcation.qmd
+    - chapters/communication.qmd
     - chapters/aiml_lab.qmd
 
 website:
