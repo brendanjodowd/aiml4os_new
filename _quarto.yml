@@ -6,6 +6,7 @@ project:
     - chapters/coordination.qmd
     - chapters/communication.qmd
     - chapters/aiml_lab.qmd
+    - chapters/ecosystem_monitoring.qmd
 
 website:
   page-navigation: true
@@ -35,6 +36,8 @@ website:
         text: Communication
       - href: chapters/aiml_lab.qmd
         text: AI/ML Lab
+      - href: chapters/ecosystem_monitoring.qmd
+        text: Ecosystem Monitoring
 
 format:
   html:
