@@ -1,5 +1,27 @@
 [
   {
+    "objectID": "chapters/imputation.html",
+    "href": "chapters/imputation.html",
+    "title": "Imputation",
+    "section": "",
+    "text": "Imputation\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Imputation"
+    ]
+  },
+  {
+    "objectID": "chapters/earth_observation_data.html",
+    "href": "chapters/earth_observation_data.html",
+    "title": "Earth Observation Data",
+    "section": "",
+    "text": "Earth Observation Data\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Earth Observation Data"
+    ]
+  },
+  {
     "objectID": "chapters/about_project.html",
     "href": "chapters/about_project.html",
     "title": "About Project",
@@ -24,22 +46,14 @@
     "href": "chapters/ecosystem_monitoring.html",
     "title": "Ecosystem Monitoring",
     "section": "",
-    "text": "Some text\n\n\nSome resources",
-    "crumbs": [
-      "Workpackages",
-      "Ecosystem Monitoring"
-    ]
+    "text": "Some text\n\n\nSome resources"
   },
   {
     "objectID": "chapters/ecosystem_monitoring.html#resources",
     "href": "chapters/ecosystem_monitoring.html#resources",
     "title": "Ecosystem Monitoring",
     "section": "",
-    "text": "Some resources",
-    "crumbs": [
-      "Workpackages",
-      "Ecosystem Monitoring"
-    ]
+    "text": "Some resources"
   },
   {
     "objectID": "chapters/communication.html",
@@ -135,6 +149,28 @@
     "text": "Deliverables & Tasks\nSome text",
     "crumbs": [
       "Deliverables & Tasks"
+    ]
+  },
+  {
+    "objectID": "chapters/standards_methodology_implementation.html",
+    "href": "chapters/standards_methodology_implementation.html",
+    "title": "Standards, Methodology & Implementation",
+    "section": "",
+    "text": "Standards, Methodology & Implementation\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Standards, Methodology & Implementation"
+    ]
+  },
+  {
+    "objectID": "chapters/editing.html",
+    "href": "chapters/editing.html",
+    "title": "Editing",
+    "section": "",
+    "text": "Editing\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Editing"
     ]
   }
 ]
