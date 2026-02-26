@@ -1,11 +1,19 @@
 [
   {
+    "objectID": "chapters/useful_links.html",
+    "href": "chapters/useful_links.html",
+    "title": "Some links",
+    "section": "",
+    "text": "Some links\nSome text"
+  },
+  {
     "objectID": "chapters/aiml_lab.html",
     "href": "chapters/aiml_lab.html",
     "title": "AI/ML Lab",
     "section": "",
     "text": "Some text\n\n\nSome resources",
     "crumbs": [
+      "Workpackages",
       "AI/ML Lab"
     ]
   },
@@ -16,7 +24,30 @@
     "section": "",
     "text": "Some resources",
     "crumbs": [
+      "Workpackages",
       "AI/ML Lab"
+    ]
+  },
+  {
+    "objectID": "chapters/coordination.html",
+    "href": "chapters/coordination.html",
+    "title": "Project Management & Coordination",
+    "section": "",
+    "text": "The Central Statistics Office (CSO), Ireland, are responsible for management and coordination of the AIML4OS project.\n\n\n\nAIML4OS on CSO Website",
+    "crumbs": [
+      "Workpackages",
+      "Project Management & Coordination"
+    ]
+  },
+  {
+    "objectID": "chapters/coordination.html#resources",
+    "href": "chapters/coordination.html#resources",
+    "title": "Project Management & Coordination",
+    "section": "",
+    "text": "AIML4OS on CSO Website",
+    "crumbs": [
+      "Workpackages",
+      "Project Management & Coordination"
     ]
   },
   {
@@ -50,23 +81,47 @@
     ]
   },
   {
-    "objectID": "chapters/coordination.html",
-    "href": "chapters/coordination.html",
-    "title": "Project Management & Coordination",
+    "objectID": "chapters/communication.html",
+    "href": "chapters/communication.html",
+    "title": "Communication",
     "section": "",
-    "text": "The Central Statistics Office (CSO), Ireland, are responsible for management and coordination of the AIML4OS project.\n\n\n\nAIML4OS on CSO Website",
+    "text": "Some text\n\n\nSome resources",
     "crumbs": [
-      "Project Management & Coordination"
+      "Workpackages",
+      "Communication"
     ]
   },
   {
-    "objectID": "chapters/coordination.html#resources",
-    "href": "chapters/coordination.html#resources",
-    "title": "Project Management & Coordination",
+    "objectID": "chapters/communication.html#resources",
+    "href": "chapters/communication.html#resources",
+    "title": "Communication",
     "section": "",
-    "text": "AIML4OS on CSO Website",
+    "text": "Some resources",
     "crumbs": [
-      "Project Management & Coordination"
+      "Workpackages",
+      "Communication"
+    ]
+  },
+  {
+    "objectID": "chapters/ecosystem_monitoring.html",
+    "href": "chapters/ecosystem_monitoring.html",
+    "title": "Ecosystem Monitoring",
+    "section": "",
+    "text": "Some text\n\n\nSome resources",
+    "crumbs": [
+      "Workpackages",
+      "Ecosystem Monitoring"
+    ]
+  },
+  {
+    "objectID": "chapters/ecosystem_monitoring.html#resources",
+    "href": "chapters/ecosystem_monitoring.html#resources",
+    "title": "Ecosystem Monitoring",
+    "section": "",
+    "text": "Some resources",
+    "crumbs": [
+      "Workpackages",
+      "Ecosystem Monitoring"
     ]
   }
 ]

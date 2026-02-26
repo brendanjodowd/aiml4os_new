@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/aiml_lab.html</loc>
-    <lastmod>2026-02-25T14:35:01.939Z</lastmod>
+    <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/useful_links.html</loc>
+    <lastmod>2026-02-26T09:43:03.445Z</lastmod>
   </url>
   <url>
-    <loc>https://brendanjodowd.github.io/aiml4os_new/index.html</loc>
-    <lastmod>2026-02-25T14:35:01.958Z</lastmod>
+    <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/aiml_lab.html</loc>
+    <lastmod>2026-02-26T09:43:03.444Z</lastmod>
   </url>
   <url>
     <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/coordination.html</loc>
-    <lastmod>2026-02-25T14:35:01.939Z</lastmod>
+    <lastmod>2026-02-26T09:43:03.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brendanjodowd.github.io/aiml4os_new/index.html</loc>
+    <lastmod>2026-02-26T09:43:03.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/communication.html</loc>
+    <lastmod>2026-02-26T09:43:03.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brendanjodowd.github.io/aiml4os_new/chapters/ecosystem_monitoring.html</loc>
+    <lastmod>2026-02-26T09:43:03.445Z</lastmod>
   </url>
 </urlset>
