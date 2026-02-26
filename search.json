@@ -1,24 +1,46 @@
 [
   {
-    "objectID": "chapters/imputation.html",
-    "href": "chapters/imputation.html",
-    "title": "Imputation",
+    "objectID": "chapters/synthetic_data.html",
+    "href": "chapters/synthetic_data.html",
+    "title": "Synthetic Data",
     "section": "",
-    "text": "Imputation\nSome text",
+    "text": "Synthetic Data\nSome text",
     "crumbs": [
       "Workpackages",
-      "Imputation"
+      "Synthetic Data"
     ]
   },
   {
-    "objectID": "chapters/earth_observation_data.html",
-    "href": "chapters/earth_observation_data.html",
-    "title": "Earth Observation Data",
+    "objectID": "chapters/supply_chain_networks.html",
+    "href": "chapters/supply_chain_networks.html",
+    "title": "Supply Chain Networks",
     "section": "",
-    "text": "Earth Observation Data\nSome text",
+    "text": "Supply Chain Networks\nSome text",
     "crumbs": [
       "Workpackages",
-      "Earth Observation Data"
+      "Supply Chain Networks"
+    ]
+  },
+  {
+    "objectID": "chapters/editing.html",
+    "href": "chapters/editing.html",
+    "title": "Editing",
+    "section": "",
+    "text": "Editing\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Editing"
+    ]
+  },
+  {
+    "objectID": "chapters/knowledge_repository.html",
+    "href": "chapters/knowledge_repository.html",
+    "title": "Knowledge Repository",
+    "section": "",
+    "text": "Knowledge Repository\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Knowledge Repository"
     ]
   },
   {
@@ -82,7 +104,7 @@
     "href": "index.html",
     "title": "AI and Machine Learning for Official Statistics - AIML4OS",
     "section": "",
-    "text": "AI and Machine Learning for Official Statistics (AIML4OS) is an ESSnet project aimed at delivering a comprehensive suite of resources, guidelines, methodologies and use cases for the implementation of AI/ML in Official Statistics. There are 15 funded countries in the consortium. The project is running from April 2024 to March 2028.\n\nProject Structure\nThe AIML4OS project is divided into 13 workpackages, 6 of which are ‘supporting’ workpackages that provide cross-cutting insight and resources, and 7 of which are ‘use case’ workpackages, which explore a specific domain within AI/ML and its relevance to official statistics.\n\nSupporting Workpackages\n\nProject Management & Coordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology, Implementation\nKnowledge Repository\n\n\n\nUse Case Workpackages\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data\n\n\n\n\nLinks\n\nLinkedIn\nEurostat CROS\nAIML4OS on EU Funding and Tenders Portal\nDeliverable tracker\n\n\n\n\nGrant Agreement number: 101146355 — (AIML4OS — SMP-ESS-2023-AI-ML4OS-IBA)\n\n\n\n\n\n\nReuseCC-BY 4.0",
+    "text": "AI and Machine Learning for Official Statistics (AIML4OS) is an ESSnet project aimed at delivering a comprehensive suite of resources, guidelines, methodologies and use cases for the implementation of AI/ML in Official Statistics. There are 15 funded countries in the consortium. The project is running from April 2024 to March 2028.\n\nProject Structure\nThe AIML4OS project is divided into 13 workpackages, 6 of which are ‘supporting’ workpackages that provide cross-cutting insight and resources, and 7 of which are ‘use case’ workpackages, which explore a specific domain within AI/ML and its relevance to official statistics.\n\nSupporting Workpackages\n\nProject Management & Coordination\nCommunication\nAI/ML Lab\nEcosystem Monitoring\nStandards, Methodology & Implementation\nKnowledge Repository\n\n\n\nUse Case Workpackages\n\nEarth Observation Data\nEditing\nImputation\nText to Code\nSupply Chain Networks\nLLMs\nSynthetic Data\n\n\n\n\nLinks\n\nLinkedIn\nEurostat CROS\nAIML4OS on EU Funding and Tenders Portal\nDeliverable tracker\n\n\n\n\nGrant Agreement number: 101146355 — (AIML4OS — SMP-ESS-2023-AI-ML4OS-IBA)\n\n\n\n\n\n\nReuseCC-BY 4.0",
     "crumbs": [
       "Homepage"
     ]
@@ -163,14 +185,36 @@
     ]
   },
   {
-    "objectID": "chapters/editing.html",
-    "href": "chapters/editing.html",
-    "title": "Editing",
+    "objectID": "chapters/earth_observation_data.html",
+    "href": "chapters/earth_observation_data.html",
+    "title": "Earth Observation Data",
     "section": "",
-    "text": "Editing\nSome text",
+    "text": "Earth Observation Data\nSome text",
     "crumbs": [
       "Workpackages",
-      "Editing"
+      "Earth Observation Data"
+    ]
+  },
+  {
+    "objectID": "chapters/imputation.html",
+    "href": "chapters/imputation.html",
+    "title": "Imputation",
+    "section": "",
+    "text": "Imputation\nSome text",
+    "crumbs": [
+      "Workpackages",
+      "Imputation"
+    ]
+  },
+  {
+    "objectID": "chapters/llms.html",
+    "href": "chapters/llms.html",
+    "title": "Large Language Models",
+    "section": "",
+    "text": "Large Language Models\nLink to WP12 on GitHub",
+    "crumbs": [
+      "Workpackages",
+      "Large Language Models"
     ]
   }
 ]
