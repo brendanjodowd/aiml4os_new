@@ -8,6 +8,9 @@ project:
     - chapters/aiml_lab.qmd
     - chapters/ecosystem_monitoring.qmd
     - chapters/useful_links.qmd
+    - chapters/news.qmd
+    - chapters/deliverables_tasks.qmd
+    - chapters/about_project.qmd
 
 website:
   page-navigation: true
@@ -46,6 +49,12 @@ website:
             
       - file: chapters/useful_links.qmd
         text: Useful Links
+      - file: chapters/news.qmd
+        text: News
+      - file: chapters/deliverables_tasks.qmd
+        text: Deliverables & Tasks
+      - file: chapters/about_project.qmd
+        text: About Project
 
 format:
   html:
