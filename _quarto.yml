@@ -11,6 +11,10 @@ project:
     - chapters/news.qmd
     - chapters/deliverables_tasks.qmd
     - chapters/about_project.qmd
+    - chapters/standards_methodology_implementation.qmd
+    - chapters/earth_observation_data.qmd
+    - chapters/editing.qmd
+    - chapters/imputation.qmd
 
 website:
   page-navigation: true
@@ -44,8 +48,18 @@ website:
             text: Communication
           - file: chapters/aiml_lab.qmd
             text: AI/ML Lab
-          - file: chapters/ecosystem_monitoring.qmd
-            text: Ecosystem Monitoring
+          - text: Ecosystem Monitoring
+            href: https://aiml4os.github.io/WP4/
+          - file: chapters/standards_methodology_implementation.qmd
+            text: Standards, Methodology & Implementation
+          - file: chapters/earth_observation_data.qmd
+            text: Earth Observation Data
+          - file: chapters/editing.qmd
+            text: Editing
+          - file: chapters/imputation.qmd
+            text: Imputation
+          - text: Text to Code
+            href: https://aiml4os.github.io/WP10/
             
       - file: chapters/useful_links.qmd
         text: Useful Links
