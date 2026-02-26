@@ -12,9 +12,13 @@ project:
     - chapters/deliverables_tasks.qmd
     - chapters/about_project.qmd
     - chapters/standards_methodology_implementation.qmd
+    - chapters/knowledge_repository.qmd
     - chapters/earth_observation_data.qmd
     - chapters/editing.qmd
     - chapters/imputation.qmd
+    - chapters/supply_chain_networks.qmd
+    - chapters/llms.qmd
+    - chapters/synthetic_data.qmd
 
 website:
   page-navigation: true
@@ -52,6 +56,8 @@ website:
             href: https://aiml4os.github.io/WP4/
           - file: chapters/standards_methodology_implementation.qmd
             text: Standards, Methodology & Implementation
+          - file: chapters/knowledge_repository.qmd
+            text: Knowledge Repository
           - file: chapters/earth_observation_data.qmd
             text: Earth Observation Data
           - file: chapters/editing.qmd
@@ -60,6 +66,12 @@ website:
             text: Imputation
           - text: Text to Code
             href: https://aiml4os.github.io/WP10/
+          - file: chapters/supply_chain_networks.qmd
+            text: Supply Chain Networks
+          - file: chapters/llms.qmd
+            text: Large Language Models
+          - file: chapters/synthetic_data.qmd
+            text: Synthetic Data
             
       - file: chapters/useful_links.qmd
         text: Useful Links
@@ -69,6 +81,7 @@ website:
         text: Deliverables & Tasks
       - file: chapters/about_project.qmd
         text: About Project
+      
 
 format:
   html:
