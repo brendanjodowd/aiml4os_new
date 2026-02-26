@@ -39,7 +39,8 @@ website:
     # logo: resources/profile/main3.png
     # style: "docked"
     # collapse-level: 0
-    # search: true
+    # Turning off search here because it seems to interfere with collapsibility
+    search: false
     contents: # Add HERE new chapters (but not the interactive qmd files)
       - file: index.qmd
         text: Homepage
