@@ -7,6 +7,7 @@ project:
     - chapters/communication.qmd
     - chapters/aiml_lab.qmd
     - chapters/ecosystem_monitoring.qmd
+    - chapters/useful_links.qmd
 
 website:
   page-navigation: true
@@ -28,16 +29,21 @@ website:
     # style: "docked"
     search: true
     contents: # Add HERE new chapters (but not the interactive qmd files)
-      - href: index.qmd
+      - file: index.qmd
         text: Homepage
-      - href: chapters/coordination.qmd
-        text: Project Management & Coordination
-      - href: chapters/communication.qmd
-        text: Communication
-      - href: chapters/aiml_lab.qmd
-        text: AI/ML Lab
-      - href: chapters/ecosystem_monitoring.qmd
-        text: Ecosystem Monitoring
+      - section: Workpackages
+        expanded: false
+        contents: 
+          - file: chapters/coordination.qmd
+            text: Project Management & Coordination
+          - file: chapters/communication.qmd
+            text: Communication
+          - file: chapters/aiml_lab.qmd
+            text: AI/ML Lab
+          - file: chapters/ecosystem_monitoring.qmd
+            text: Ecosystem Monitoring
+      - file: useful_links.qmd
+        text: Useful Links
 
 format:
   html:
