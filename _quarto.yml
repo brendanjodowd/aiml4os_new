@@ -31,6 +31,7 @@ website:
     contents: # Add HERE new chapters (but not the interactive qmd files)
       - file: index.qmd
         text: Homepage
+        
       - section: Workpackages
         expanded: false
         contents: 
@@ -42,7 +43,8 @@ website:
             text: AI/ML Lab
           - file: chapters/ecosystem_monitoring.qmd
             text: Ecosystem Monitoring
-      - file: useful_links.qmd
+            
+      - file: chapters/useful_links.qmd
         text: Useful Links
 
 format:
