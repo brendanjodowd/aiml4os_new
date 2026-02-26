@@ -38,8 +38,8 @@ website:
 
     # logo: resources/profile/main3.png
     # style: "docked"
-    collapse-level: 0
-    search: true
+    # collapse-level: 0
+    # search: true
     contents: # Add HERE new chapters (but not the interactive qmd files)
       - file: index.qmd
         text: Homepage
