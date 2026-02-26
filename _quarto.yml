@@ -53,8 +53,6 @@ website:
             text: Communication
           - file: chapters/aiml_lab.qmd
             text: AI/ML Lab
-          - text: Ecosystem Monitoring
-            href: https://aiml4os.github.io/WP4/
           - file: chapters/standards_methodology_implementation.qmd
             text: Standards, Methodology & Implementation
           - file: chapters/knowledge_repository.qmd
@@ -65,8 +63,6 @@ website:
             text: Editing
           - file: chapters/imputation.qmd
             text: Imputation
-          - text: Text to Code
-            href: https://aiml4os.github.io/WP10/
           - file: chapters/supply_chain_networks.qmd
             text: Supply Chain Networks
           - file: chapters/llms.qmd
@@ -82,7 +78,10 @@ website:
         text: Deliverables & Tasks
       - file: chapters/about_project.qmd
         text: About Project
-      
+      - text: Ecosystem Monitoring
+        href: https://aiml4os.github.io/WP4/
+      - text: Text to Code
+        href: https://aiml4os.github.io/WP10/
 
 format:
   html:
